@@ -27,8 +27,9 @@
 - [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
 - [🛠️ Architectural Patterns & Deployment Strategy](#️-architectural-patterns--deployment-strategy)
 - [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
 - [📈 Star History](#-star-history)
-- [⚖️ Disclaimer](#️-disclaimer)
+- [⚖️ Disclaimer](#-disclaimer)
 
 ---
 
@@ -106,6 +107,23 @@ Contributions are warmly welcomed! To suggest a new open-source project or SaaS 
 2. 📝 Add your entry under the respective table adhering strictly to existing sorting rules and formatting standards.
 3. 🏷️ Ensure all pricing and free trial limits are explicitly stated with exact numbers.
 4. 🚀 Submit a Pull Request with a succinct explanation of the project's enterprise credentials.
+
+---
+
+## 💖 Support & Sponsorship
+
+Thank you so much for exploring and using this curated resource! If you find this directory valuable for your organization, infrastructure designs, or daily sysadmin workflow, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it across GitHub.
+- 🍴 **Fork and contribute** new tools, benchmarks, and updates.
+- 📢 **Share with fellow DevOps engineers**, SREs, and Linux system administrators.
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance, deep research, and updates via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+<p align="left">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-pink?style=for-the-badge&logo=github-sponsors" alt="Sponsor on GitHub" />
+  </a>
+</p>
 
 ---
 
