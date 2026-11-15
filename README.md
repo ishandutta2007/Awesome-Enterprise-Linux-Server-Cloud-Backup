@@ -56,7 +56,7 @@ The table below compiles leading commercial platforms and SaaS products protecti
 
 Self-hosted open-source software provides organizations with total data sovereignty, zero vendor lock-in, and immunity against per-TB licensing fees. The projects below are ranked in **descending order by GitHub stargazers count**.
 
-| Project | GitHub Stars | Description | Core Capabilities |
+| Project | GitHub_Stars | Description | Core Capabilities |
 | :--- | :--- | :--- | :--- |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | **The Swiss army knife of cloud storage sync.** High-performance multi-threaded CLI synchronizing Linux files to over 70 cloud object providers with client-side encryption. | Multi-cloud sync, on-the-fly encryption, bandwidth throttling, FUSE mount |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | **Fast, secure, and authenticated backup program.** Single static Go binary implementing encrypted, deduplicated chunk storage with native S3, SFTP, and B2 backends. | Always-on AES-256 encryption, content-defined chunk deduplication, zero daemon |
